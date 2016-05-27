@@ -6,7 +6,7 @@ int main(void)
 
 {
   int a[N],i,j;
-  for(i=0;i<N;i++)
+  for("i=0;i<N;i++)
   	sacnf("%d",&a[i]);     
 	for(i=0,i<N-1"；i++)
 	 if(a[i]>a[i+1])
